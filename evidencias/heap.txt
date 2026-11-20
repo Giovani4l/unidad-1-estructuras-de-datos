@@ -1,0 +1,10 @@
+TAREA 1.2 | OBJETOS EN HEAP Y ENCAPSULAMIENTO
+PASS H1 ambas referencias apuntan al mismo objeto
+PASS H2 cambio por alias visible: saldo=150
+PASS H3 mismos datos, instancia independiente
+PASS H4 quitar una referencia no destruye el objeto
+PASS H5 encapsulamiento rechaza deposito negativo
+PASS H6 coleccion de 3 instancias; suma=30
+Se eliminaron referencias; el GC decide cuando recuperar memoria.
+No se fuerza GC.Collect ni se infiere una direccion fisica.
+RESULTADO: 6 casos aprobados

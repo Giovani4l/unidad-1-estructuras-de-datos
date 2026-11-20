@@ -1,0 +1,19 @@
+TAREA 1.2 | ARREGLOS Y VECTOR DINAMICO
+Runtime: .NET 10.0.12; SO: Microsoft Windows 10.0.19045
+Arquitectura: X64; n=1000
+PASS C1 longitud fija = 3
+PASS C2 crecer: 10,20,30,0,0
+PASS C3 alias conserva arreglo original
+PASS C4 reducir: 10,20
+PASS C5 longitud cero valida
+PASS C6 negativo rechazado
+PASS C7 List conserva extremos y cantidad
+List: Count=1000; Capacity=1024; cambios=9
+BENCHMARK: mediana de 7 muestras, tras 3 calentamientos
+metodo;ms;bytes_asignados_hilo
+arreglo_una_asignacion;0.0190;4024
+resize_por_elemento;0.2067;2028000
+list_crecimiento;0.0169;8424
+list_capacidad_inicial;0.0098;4056
+Checksum de control=499500
+RESULTADO: 7 casos aprobados

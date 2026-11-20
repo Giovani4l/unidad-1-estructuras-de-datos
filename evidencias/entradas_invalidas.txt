@@ -1,0 +1,4 @@
+entrada=0; salida=2; mensaje=Uso: Arreglos [n entre 1 y 20000]
+entrada=-1; salida=2; mensaje=Uso: Arreglos [n entre 1 y 20000]
+entrada=abc; salida=2; mensaje=Uso: Arreglos [n entre 1 y 20000]
+entrada=20001; salida=2; mensaje=Uso: Arreglos [n entre 1 y 20000]

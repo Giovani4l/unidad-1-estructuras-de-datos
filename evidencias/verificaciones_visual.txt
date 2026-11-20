@@ -1,0 +1,31 @@
+PASS rango elegido genera valores reales
+PASS alias inicial comparte identidad
+PASS cambio se refleja en alias, no en copia List
+PASS Resize cambia instancia y conserva alias anterior
+PASS crecimiento conserva prefijo e inicializa nuevos elementos
+PASS arreglo nuevo independiente del anterior
+PASS reducción conserva prefijo correcto
+PASS List agrega valor ingresado
+PASS List elimina último y respeta capacidad
+PASS tamaño cero permitido
+PASS índice fuera del arreglo
+PASS longitud negativa
+PASS rango invertido
+PASS eliminar de vector vacío
+PASS límite de vector
+PASS alias comparte instancia real
+PASS depósito por alias actualiza referencia original
+PASS retiro respeta saldo compartido
+PASS depósito negativo
+PASS retiro sin fondos
+PASS datos iguales no implican identidad
+PASS soltar conserva el objeto accesible por alias
+PASS última referencia deja de contar la instancia
+PASS nombre de referencia vacío
+PASS titular vacío
+PASS saldo inicial negativo
+PASS alias desde referencia null
+PASS cuatro estrategias calculan suma de entrada arbitraria
+PASS mediciones reales con asignaciones
+PASS tamaño inválido para medición
+RESULTADO: 30 verificaciones aprobadas

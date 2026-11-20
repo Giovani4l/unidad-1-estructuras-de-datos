@@ -1,0 +1,24 @@
+<!doctype html><html lang="es"><meta charset="utf-8"><style>
+    *{box-sizing:border-box}body{margin:0;padding:40px;background:#edf2f7;font-family:Arial;color:#142c46}
+    h1{font-size:26px;margin:0 0 12px}p{font-size:16px}pre{background:#15283d;color:#f0f6ff;padding:25px;border-radius:12px;font:17px/1.55 Consolas,monospace;white-space:pre-wrap}
+    </style><h1>Unidad 1 | Evidencia de ejecución</h1><p>Axel Giovani Gonzalez Lopez · I24050379 · C# / .NET 10</p>
+    <p>Registro real de ejecución en este equipo. Visor local de la salida guardada.</p><pre>TAREA 1.2 | ARREGLOS Y VECTOR DINAMICO
+Runtime: .NET 10.0.12; SO: Microsoft Windows 10.0.19045
+Arquitectura: X64; n=1000
+PASS C1 longitud fija = 3
+PASS C2 crecer: 10,20,30,0,0
+PASS C3 alias conserva arreglo original
+PASS C4 reducir: 10,20
+PASS C5 longitud cero valida
+PASS C6 negativo rechazado
+PASS C7 List conserva extremos y cantidad
+List: Count=1000; Capacity=1024; cambios=9
+BENCHMARK: mediana de 7 muestras, tras 3 calentamientos
+metodo;ms;bytes_asignados_hilo
+arreglo_una_asignacion;0.0190;4024
+resize_por_elemento;0.2067;2028000
+list_crecimiento;0.0169;8424
+list_capacidad_inicial;0.0098;4056
+Checksum de control=499500
+RESULTADO: 7 casos aprobados
+</pre><p>Fuente: arreglos_1000.txt · Compilación Release · Sin edición de los resultados.</p></html>

@@ -1,0 +1,50 @@
+PASS botón Generar usa entradas
+PASS botón Redimensionar crea tamaño indicado
+PASS edición real independiente del alias anterior
+PASS botón agrega valor ingresado a List
+PASS botón elimina último de List
+PASS botón medir calcula las cuatro estrategias
+PASS control dentro de fila: Label
+PASS control dentro de fila: NumericUpDown
+PASS control dentro de fila: Label
+PASS control dentro de fila: NumericUpDown
+PASS control dentro de fila: Label
+PASS control dentro de fila: NumericUpDown
+PASS control dentro de fila: Label
+PASS control dentro de fila: NumericUpDown
+PASS control dentro de fila: Button
+PASS control dentro de fila: Label
+PASS control dentro de fila: NumericUpDown
+PASS control dentro de fila: Button
+PASS control dentro de fila: Label
+PASS control dentro de fila: Label
+PASS control dentro de fila: NumericUpDown
+PASS control dentro de fila: Label
+PASS control dentro de fila: NumericUpDown
+PASS control dentro de fila: Button
+PASS control dentro de fila: Button
+PASS control dentro de fila: Button
+PASS depósito actualiza ambas referencias
+PASS formulario reconoce una instancia compartida
+PASS retiro calculado a partir del estado actual
+PASS control dentro de fila: Label
+PASS control dentro de fila: TextBox
+PASS control dentro de fila: Label
+PASS control dentro de fila: TextBox
+PASS control dentro de fila: Label
+PASS control dentro de fila: NumericUpDown
+PASS control dentro de fila: Button
+PASS control dentro de fila: Label
+PASS control dentro de fila: ComboBox
+PASS control dentro de fila: Label
+PASS control dentro de fila: NumericUpDown
+PASS control dentro de fila: Button
+PASS control dentro de fila: Button
+PASS control dentro de fila: Button
+PASS control dentro de fila: Button
+PASS control dentro de fila: Label
+PASS control dentro de fila: ComboBox
+PASS control dentro de fila: Button
+PASS soltar elimina solo la referencia seleccionada
+RESULTADO: 48 comprobaciones de interfaz aprobadas
+Las imágenes son renders del formulario mediante DrawToBitmap, no capturas del escritorio.

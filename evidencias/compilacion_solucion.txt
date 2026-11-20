@@ -1,0 +1,15 @@
+  Determinando los proyectos que se van a restaurar...
+  Todos los proyectos están actualizados para la restauración.
+  Arreglos -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\visual-build\bin\Arreglos\release\Arreglos.dll
+  Heap -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\visual-build\bin\Heap\release\Heap.dll
+  Laboratorio.Core -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\visual-build\bin\Laboratorio.Core\release\Laboratorio.Core.dll
+  Arreglos.Visual -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\visual-build\bin\Arreglos.Visual\release\Arreglos.Visual.dll
+  Heap.Visual -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\visual-build\bin\Heap.Visual\release\Heap.Visual.dll
+  Verificaciones -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\visual-build\bin\Verificaciones\release\Verificaciones.dll
+  PruebasInterfaz -> C:\Users\yosoy\Documents\Codex\2026-11-01\unidad-1-introducci-n-a-las\work\visual-build\bin\PruebasInterfaz\release\PruebasInterfaz.dll
+
+Compilación correcta.
+    0 Advertencia(s)
+    0 Errores
+
+Tiempo transcurrido 00:00:04.74
